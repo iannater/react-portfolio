@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Vacation Destination Group Project #1",
+        "text": "This was our first group project",
+        "image": "/public/Assets/Images/vacation.png",
+        "githubDeployed": "https://kkaraman.github.io/earnestNovas/",
+        "githubRepo": "https://github.com/KKaraman/earnestNovas"
+    },
+    {
+        "id": 2,
+        "title": "FoodBook Group Project #2",
+        "text": "test",
+        "image": "",
+        "githubDeployed": "https://evening-hamlet-32394.herokuapp.com/",
+        "githubRepo": "https://github.com/iannater/Project-Two"
+    },
+    {
+        "id": 3,
+        "title": "Call of Duty Warzone Stats",
+        "text": "test",
+        "image": "",
+        "githubDeployed": "https://iannater.github.io/WarzoneProject/",
+        "githubRepo": "https://github.com/iannater/WarzoneProject"
+    },
+    {
+        "id": 4,
+        "title": "Planner App Individual Activity",
+        "text": "",
+        "image": "",
+        "githubDeployed": "https://iannater.github.io/calendarhomework/",
+        "githubRepo": "https://github.com/iannater/calendarhomework"
+    }
+]
