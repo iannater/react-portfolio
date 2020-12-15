@@ -6,7 +6,7 @@ export class projectPage extends Component {
     render() {
         return (
             <div>
-                <div className ="row">
+                <div className ="container">
                 <ProjectCard />
                 </div>
             </div>

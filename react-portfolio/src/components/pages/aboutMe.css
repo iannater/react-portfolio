@@ -1,0 +1,31 @@
+
+#homeImage{
+	width: 80%;
+	height: 20%;
+	margin: auto;
+}
+
+.mt-0{
+    font-size: 1.9vw;
+}
+
+#working{
+    font-size: 2vw;
+}
+
+#bio{
+    color:rgba(110, 214, 179, 0.671);
+
+}
+
+#facts{
+    color:rgba(110, 214, 179, 0.671);
+}
+
+#about {
+    color: rgba(110, 214, 179, 0.671);
+}
+
+h1{
+    text-align: center;
+    }

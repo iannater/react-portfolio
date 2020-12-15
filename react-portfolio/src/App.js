@@ -9,9 +9,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
     // Setting this.state.projects to the projects json array
-
-
-
     render() {
         return (
           <Router>

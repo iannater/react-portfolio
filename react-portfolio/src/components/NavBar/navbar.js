@@ -1,11 +1,12 @@
 import React from "react";
+import logoImage from "../../Assets/Images/logo.png"
 
 const Navbar = () => {
 
     return (
         <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                <img src="public/Assets/Images/logo.png" width="70" height="70" alt=""></img>
+                <img src={logoImage} width="70" height="70" alt=""></img>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>

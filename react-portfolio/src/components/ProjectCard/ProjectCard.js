@@ -13,7 +13,7 @@ class projectsCard extends Component {
         <div>
             {this.state.projects.map(project =>(
                 <div className="row">
-                    <div className="card mb-3">
+                    <div className="card mb-3" id="projectCard">
                         <div className="row no-gutters">
                             <div className="col-md-4">
                                 <img src={project.image} className="card-img" alt="..."></img>
@@ -45,28 +45,3 @@ class projectsCard extends Component {
 
 export default projectsCard
 
-{/* <div className="row">
-<div className="card mb-3">
-    <div className="row no-gutters">
-        <div className="col-md-4">
-            <img src={projects.image} className="card-img" alt="..."></img>
-        </div>
-        <div className="col-md-8">
-            <div className="card-body">
-                <h5 className="card-title">{projects.title}</h5>
-                <p className="card-text">{projects.text}</p>
-                <ul>
-                    <small>
-                        <li>GitHub Deployed Link- <a href={projects.githubDeployed}
-                            target="blank">{projects.githubDeployed}</a></li>
-                    </small>
-                    <small>
-                        <li>GitHub Repo- <a href={projects.githubRepo}
-                            target="blank">{projects.githubRepo}</a></li>
-                    </small>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-</div> */}
