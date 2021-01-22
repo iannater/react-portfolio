@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Sellify Group Project #3",
-        "text": "This was our final project of the class. For this final project we wanted to create an app that would actually solve a problem we have experienced. Today when selling your home it can be challenging to keep all of your showing data and offer data in one place. Will Sellify we set out on a mission to solve that. ",
+        "text": "This was our final project of the class. For this final project we wanted to create an app that would actually solve a problem we have experienced. Today when selling your home it can be challenging to keep all of your showing data and offer data in one place. With Sellify we set out on a mission to solve that problem. ",
         "image": "images/sellify.png",
         "githubDeployed": "https://wjrsellify.herokuapp.com/",
         "githubRepo": "https://github.com/KKaraman/wickedJackrabbits"
