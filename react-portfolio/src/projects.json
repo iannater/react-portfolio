@@ -1,18 +1,17 @@
 [
     {
         "id": 1,
-        "title": "Vacation Destination Group Project #1",
-        "text": 
-        "This was our first group project in the class. For this project we decided to make an app that would allow customers to select a distance they want to travel,activity they want to do, and a duration they want to stay. After we receive these inputs we would make several API calls to google maps, yelp, and open weather and return the results to the user",
-        "image": "/images/vacation.png",
-        "githubDeployed": "https://kkaraman.github.io/earnestNovas/",
-        "githubRepo": "https://github.com/KKaraman/earnestNovas"
+        "title": "Sellify Group Project #3",
+        "text": "This was our final project of the class. For this final project we wanted to create an app that would actually solve a problem we have experienced. Today when selling your home it can be challenging to keep all of your showing data and offer data in one place. Will Sellify we set out on a mission to solve that. ",
+        "image": "images/sellify.png",
+        "githubDeployed": "https://wjrsellify.herokuapp.com/",
+        "githubRepo": "https://github.com/KKaraman/wickedJackrabbits"
     },
     {
         "id": 2,
         "title": "FoodBook Group Project #2",
         "text": "For our second group project we built a full stack app called Foodbook. For this app we wanted to build something that would allow users to personally track/share restaurants they visited. A user can create an account and then add a review to their FoodBook. Once they have added a review it will show as a card (instagram style) on their home page. They can then go back and filter on these cards when trying to choose a place to eat in the future",
-        "image": "/images/FoodBook.png",
+        "image": "images/FoodBook.png",
         "githubDeployed": "https://evening-hamlet-32394.herokuapp.com/",
         "githubRepo": "https://github.com/iannater/Project-Two"
     },
@@ -20,16 +19,17 @@
         "id": 3,
         "title": "Call of Duty Warzone Stats",
         "text": "This is a personal project that I started just for fun. I really enjoy playing this game with friends especially during COVID and am very data focused in general. So, when I found out I could make an API call and get all of the in game stats I wanted to build a little site around it. On this site you can enter your gamer tag and platform you play on and it will return your current key stats as well as your last 20 game stats.",
-        "image": "/images/warzone.png",
+        "image": "images/warzone.png",
         "githubDeployed": "https://iannater.github.io/WarzoneProject/",
         "githubRepo": "https://github.com/iannater/WarzoneProject"
     },
     {
         "id": 4,
-        "title": "Planner App Individual Activity",
-        "text": "For this activity we had to make an app that would allow customers to type an event into a particular hour and then store that input into local storage so that it would persist through refreshing the page.",
-        "image": "/images/planner.png",
-        "githubDeployed": "https://iannater.github.io/calendarhomework/",
-        "githubRepo": "https://github.com/iannater/calendarhomework"
+        "title": "Vacation Destination Group Project #1",
+        "text": 
+        "This was our first group project in the class. For this project we decided to make an app that would allow customers to select a distance they want to travel,activity they want to do, and a duration they want to stay. After we receive these inputs we would make several API calls to google maps, yelp, and open weather and return the results to the user",
+        "image": "images/vacation.png",
+        "githubDeployed": "https://kkaraman.github.io/earnestNovas/",
+        "githubRepo": "https://github.com/KKaraman/earnestNovas"
     }
 ]

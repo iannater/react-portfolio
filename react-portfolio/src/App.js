@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import NavBar from "./components/NavBar/navbar"
 import projectPage from "../src/components/pages/projectPage"
 import aboutMe from "../src/components/pages/aboutMe"
@@ -11,7 +11,7 @@ class App extends Component {
     // Setting this.state.projects to the projects json array
     render() {
         return (
-          <Router>
+          <Router basename="/">
           <div>
             <NavBar />
             <Route exact path="/" component={aboutMe} />
@@ -21,5 +21,6 @@ class App extends Component {
         );
     }
 }
+
 
 export default App;

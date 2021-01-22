@@ -1,5 +1,6 @@
 import React from "react";
 import logoImage from "../../Assets/Images/logo.png"
+import {Link} from "react-router-dom"
 
 const Navbar = () => {
 
@@ -14,10 +15,10 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item active">
-                            <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
+                            <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/projectPage">Portfolio</a>
+                            <Link className="nav-link" to="/projectPage">Portfolio</Link>
                         </li>
                     </ul>
                 </div>
